@@ -1,0 +1,7 @@
+1. Write a java program to find whether a year is leap or not.
+2. Write a java program to take input 1 to 7 from user and display the day at the certain number .
+3. Write a java program that reads two floating point numbers and check whether they are same upto 3 digits after decimal.
+4. Write a java program that finds days in a month .
+5. Write a java program that requires the user to enter a single character from the alphabet and print if it is a vowel or a consonent .
+6. Write a java program to take 5 input numbers and then find their sum , average .
+7. Java program to take input n and then display the cube of all number upto it starting from 1.
